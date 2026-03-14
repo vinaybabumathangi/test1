@@ -1,1 +1,3 @@
 welcome to vaarahi cloud technologies
+
+this is practice for git methods and respositories
