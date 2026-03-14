@@ -1,3 +1,4 @@
 welcome to vaarahi cloud technologies
 
 this is practice for git methods and respositories
+Here is the conflicts about to start at this file carefully has to merge this text with upcoming repositories code both codes are important.
